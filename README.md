@@ -1,3 +1,7 @@
+# <font color="red">PLEASE NOTE:</font> #
+## This is a personal fork used for local development and testing of the @OpenStack PHP SDK from @rackspace called php-opencloud. Unless you are collaborating with me on a specific bugfix/feature for php-opencloud I recomend you use the version from the official website below ##
+# http://php-opencloud.com #
+
 **php-opencloud**
 =============
 PHP SDK for OpenStack/Rackspace APIs
